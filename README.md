@@ -10,4 +10,9 @@
 <h2>Usage</h2>
 <p>$ git-erase</p>
 
+## Other
+- git config --local credential.helper "" (set to no credential helper)
+- git config --local credential.helper "osxkeychain" (set credential helper to osxkeychain)
+
+
 

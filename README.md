@@ -6,6 +6,10 @@
     <li>sudo mv git-erase.sh /user/local/bin (or any path in $PATH)</li>
     <li>ln -s /usr/local/bin/git-erase.sh /usr/local/bin/git-erase</li>
 </ul>
+<<<<<<< HEAD
+=======
+
+>>>>>>> 4511288d4b0dd3809412a22d19adaa3d98fdd557
 <h2>Usage</h2>
 <p>$ git-erase</p>
 

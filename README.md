@@ -1,6 +1,5 @@
 <h1>git-keychain-erase</h1>
 <ul>
-
     <li>git clone https://github.com/NLut/git-keychain-erase.git</li>
     <li>cd git-keychain-erase</li>
     <li>chmod +x git-erase.sh</li>  

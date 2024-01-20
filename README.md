@@ -11,7 +11,8 @@
 <p>$ git-erase</p>
 
 ## Other
-- git config --local credential.helper "" (set to no credential helper)
+- git config --local credential.helper "" (set to no credential helper) for this repo
+- git config --global credential.helper "" (set to no credential helper) for all 
 - git config --local credential.helper "osxkeychain" (set credential helper to osxkeychain)
 
 ## Do it manually

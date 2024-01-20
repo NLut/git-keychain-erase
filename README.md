@@ -14,5 +14,9 @@
 - git config --local credential.helper "" (set to no credential helper)
 - git config --local credential.helper "osxkeychain" (set credential helper to osxkeychain)
 
-
+## Do it manually
+- git credential-osxkeychain erase (press enter)
+- host=github.com (press enter)
+- protocol=https (press enter)
+- (press enter)
 
